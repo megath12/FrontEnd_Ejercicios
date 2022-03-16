@@ -1,0 +1,42 @@
+
+*{
+    background-color: aqua;
+}
+
+.lc{
+    font-family: cursive;
+}
+
+.ca{
+    color: mediumblue;
+}
+
+.cc{
+    color:wheat;
+}
+
+.oc{
+    opacity: initial;
+}
+.tl{
+    font-size: xx-large;
+}
+.pp{
+    fon
+}
+
+.td{
+    text-decoration: underline;
+}
+
+.ta{
+    text-align: center;
+}
+
+.cv{
+    color: green;
+}
+
+.tr{
+    transition: 2ms;
+}
