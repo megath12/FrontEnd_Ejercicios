@@ -1,0 +1,54 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+    height: 400px;
+    
+}
+
+div{
+    height: 400px;
+}
+
+.fondoColor{
+    background-color: #0f6666;
+}
+
+.fondoOpacidad{
+    background-color: #5d0c0c;
+    opacity: 0.5;
+}
+
+.fondoImagen{
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg");
+}
+
+.fondoRepetidoX{
+    background-image: url("https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_960_720.jpg");
+    background-repeat: repeat-y;
+}
+
+.fondoRepetidoY{
+    background-image: url("https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_960_720.jpg");
+    background-repeat: repeat-x;
+}
+
+.fondoNoRepetido{
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/29/04/19/ocean-1867285_960_720.jpg");
+    background-repeat: no-repeat;
+}
+
+.fondoPosicion{
+    background-image: url("https://cdn.pixabay.com/photo/2010/12/13/10/09/nature-2384_960_720.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.fondoCompleto{
+    background-image: url("https://cdn.pixabay.com/photo/2017/03/27/16/50/beach-2179624_960_720.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
