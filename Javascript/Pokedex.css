@@ -1,0 +1,53 @@
+
+.clet{
+    color: rgba(255, 255, 0, 0.822);
+    font-size: 2cm;
+    font-style: oblique;
+    position: relative;
+    top: 80px;
+    left: 30px;
+}
+
+.ba{
+    -webkit-text-stroke: 2.5px blue;
+    color: yellow; 
+}
+
+.im1{
+    width: 70%;
+    height: 700px;
+    position: relative;
+    top: -120px;
+    left: 150px;
+}
+
+.im2{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: -230px;
+    left: -450px;
+}
+
+.caj{
+    background-color:rgb(187, 28, 28);
+    color: antiquewhite;
+    position: relative;
+    top: -180px;
+    left: 500px;
+    border-radius: 10px;
+}
+
+.botn{
+    background-color: blue;
+    color:antiquewhite;
+    position: relative;
+    top: -180px;
+    left: 570px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+body{
+    background-color: red;
+}
